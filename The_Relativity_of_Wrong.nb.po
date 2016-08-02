@@ -1,5 +1,8 @@
 # Copyright (C) 2016 Petter Reinholdtsen
-# This file is distributed under the same license as the Relativitiy of Wrong package.
+# This file is distributed under the same license as the Relativitiy
+# of Wrong letter by Isac Asimov.  when the original letter enter the
+# public domain, the translation should be considered public domain
+# too.
 #
 # Petter Reinholdtsen <pere@hungry.com>, 2016.
 # Asbjørn Dyrendal <asbjorn.dyrendal@ntnu.no>, 2016.
