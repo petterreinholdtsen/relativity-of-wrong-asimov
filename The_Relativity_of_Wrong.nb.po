@@ -28,8 +28,7 @@ msgstr "Relativt feil"
 #. type: Plain text
 msgid "By Isaac Asimov"
 msgstr ""
-"Av Isaac Asimov.  Oversatt til bokmål og omregnet fra tommer og engelske mil "
-"til metermål av Petter Reinholdtsen og Asbjørn Dyrendal."
+"Av Isaac Asimov."
 
 #. type: Plain text
 msgid ""
@@ -641,3 +640,9 @@ msgstr ""
 "Selvfølgelig kan teoriene vi har nå anses å ta feil i den enkle betydningen "
 "av ordet som min engelske litteraturviterkorrespondent legger opp til, men i "
 "en mer sannferdig og subtil forståelse bør de bare anses som ufullstendige."
+
+#. type: Plain text
+msgid "@footer@"
+msgstr ""
+"(Oversatt til bokmål og omregnet fra tommer og engelske mil til metermål av "
+"Petter Reinholdtsen)"
